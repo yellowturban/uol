@@ -5,4 +5,7 @@ As a community, we shall be working on a database containing:
   2. Available resources (subject to copyright)
   3. Other statistics
   4. Past exam dates
+
+## Other included files
+spammers.md - A list of spammers with they numbers and where they spam
  
